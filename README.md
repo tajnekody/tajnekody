@@ -1,16 +1,14 @@
-## Hi there 👋
+ 🕶 Tajný web Operace: Neviditelná Větev
 
-<!--
-**tajnekody/tajnekody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *“Všechno, co je důležité, je skryto očím.” – Antoine de Saint-Exupéry*
 
-Here are some ideas to get you started:
+Tento repozitář slouží jako základní přístupový bod k *informačním strukturám projektu 2025*.  
+Jen vybraní jedinci vědí, kam pokračovat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 Přístupová podmínka
+
+Chceš-li pokračovat dál, zadej ověřovací klíč.  
+Ale POZOR – žádný kód zde není uveden přímo.  
+Jen fragment:
